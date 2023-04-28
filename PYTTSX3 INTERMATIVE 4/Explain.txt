@@ -1,0 +1,4 @@
+this is the python project using pyttx3 this is a reader 
+
+before you doing this project "pip install pyttx3"
+so let do it

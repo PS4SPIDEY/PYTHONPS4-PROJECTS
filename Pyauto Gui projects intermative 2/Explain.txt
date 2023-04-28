@@ -1,0 +1,6 @@
+now you reached the intermative 2 level in python
+so you were succeed
+
+before you going to this project do this one "pip install pyautogui"
+
+thanks...

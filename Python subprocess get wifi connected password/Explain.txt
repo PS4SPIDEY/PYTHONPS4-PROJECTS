@@ -1,0 +1,3 @@
+Before you are going to do this project install this one "pip install subprocess"
+
+then run it. it will show your connected wifi password

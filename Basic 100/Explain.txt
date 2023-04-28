@@ -1,0 +1,7 @@
+Now we will ready to move internative
+
+before you are going to this project do this one
+
+go to this website and install it then install pycharm
+
+https://python.org/

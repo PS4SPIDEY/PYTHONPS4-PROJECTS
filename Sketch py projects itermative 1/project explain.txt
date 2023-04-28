@@ -1,0 +1,17 @@
+the project name is sketch py 
+we must do like this "from sketch import library"
+
+before you going to do this project you must do this in you terminal
+
+that is 
+1.go to your terminal or cmd(command prompt)
+
+2.then type like this "pip install sketch py" with out ""
+
+3.then you can do this project
+
+4.if you didn't download it it will show a error message
+
+now simply we finifshed our python project that you went to intermative 1
+
+then we will see pyautogui projects that is auto message
