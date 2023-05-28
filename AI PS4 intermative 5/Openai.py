@@ -1,9 +1,9 @@
 import openai
 while True:
-    openai.api_key = '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'
+    openai.api_key = 'Your api key'
 
 # Define the prompt for the text generation
-    prompt = input("Once upon a time:")
+    prompt = input("I am PS4:")
 
 # Generate text using OpenAI's GPT-3.5 model
     response = openai.Completion.create(
